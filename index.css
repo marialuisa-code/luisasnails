@@ -1,7 +1,13 @@
+
+
+h1{
+	font-family:"Times New Roman", serif;
+}
+	
+
 /*navigation*/
 
-nav ul{
-	
+nav ul{	
 	list-style:none;
 	padding:0;
 	display:flex;
@@ -13,6 +19,7 @@ nav li{
 }
 
 nav a {
+	font-family:"Brush Script MT", cursive;
 	text-decoration:none;
 	color: black;
 	font-weight: 700;
@@ -60,13 +67,4 @@ table, th, td {
 .center {
   margin-left: auto;
   margin-right: auto;
-}
-	
-/*2nd page  */
-
-.rotateimg180 {
-	-webkit-transform:rotate(90deg);
-	-ms-transform:rotate(90deg);
-	-o-transform:rotate(90deg);
-	transform:rotate(90deg);
 }
