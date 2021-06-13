@@ -53,6 +53,16 @@ body {
 	
 }
 
+/*  */
+dt{
+	font-family:"Brush Script MT", cursive;
+	font-size: 20px;
+}
+
+dd{
+	font-family:"Times New Roman", Times, serif;
+}
+
 /*   */
 table{
 	border-style: double;
